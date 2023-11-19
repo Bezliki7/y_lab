@@ -1,0 +1,68 @@
+.auth {
+    width: 360px;
+    height: 275px;
+    background: linear-gradient(90deg, rgba(0,0,6,1) 0%, rgba(8,1,7,1) 100%);
+    padding: 50px;
+    color: rgb(212, 201, 201);
+    button {
+        color: rgb(212, 201, 201);
+        margin: 5px;
+        float: right;
+        height: 50px;
+        width: 100px;
+        font-size: 25px;
+        border: 2px solid rgb(36, 11, 45);
+        background-color: rgb(36, 11, 45);
+        margin-top: 15px;
+        opacity: 0.8
+        }
+    .field {
+        display: flex;
+        padding: 5px;
+        color: rgb(212, 201, 201);
+        border: 2px solid rgb(36, 11, 45);
+        background: linear-gradient(90deg, rgba(0,0,6,1) 0%, rgba(8,1,7,1) 100%);
+        width: 336px;
+        height: 48px;
+        margin: 5px;        
+        font-size: 18px;
+        
+    }
+    .checkbox {
+        display: inline-block;
+        color: rgb(212, 201, 201);
+        background: linear-gradient(90deg, rgba(0,0,6,1) 0%, rgba(8,1,7,1) 100%);
+        margin: 4px 0px 0px 0px;
+        font-size: 25px;
+        height: 59px;
+        width: 200px;
+        input {
+            background: rgb(36, 11, 45);
+            margin-top: 15px;
+            margin-right: 5px ;
+            width: 30px;
+            height: 30px;
+        }
+        input:hover{
+            cursor: pointer;
+        }
+
+    }
+    .error {
+        input{
+            border: 2px solid red;
+        }
+    }
+    .errorDiv{
+        color: red;
+        height: 22px;
+        margin: 5px;
+    }
+    .errorDiv:focus{
+        color: red;
+    }
+    button:hover {
+        cursor: pointer;
+        opacity: 1;
+    }
+}
