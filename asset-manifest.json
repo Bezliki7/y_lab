@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/y_lab/static/css/main.85740eeb.css",
+    "main.js": "/y_lab/static/js/main.3b2b8d2d.js",
+    "static/js/787.c3a67699.chunk.js": "/y_lab/static/js/787.c3a67699.chunk.js",
+    "index.html": "/y_lab/index.html",
+    "main.85740eeb.css.map": "/y_lab/static/css/main.85740eeb.css.map",
+    "main.3b2b8d2d.js.map": "/y_lab/static/js/main.3b2b8d2d.js.map",
+    "787.c3a67699.chunk.js.map": "/y_lab/static/js/787.c3a67699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85740eeb.css",
+    "static/js/main.3b2b8d2d.js"
+  ]
+}
